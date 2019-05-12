@@ -1,0 +1,17 @@
+{
+  "name": "sls-lambda-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Mathews <mmathews@shopkeep.com>",
+  "license": "MIT",
+  "dependencies": {
+    "cowsay": "^1.4.0",
+    "node-fetch": "^2.5.0",
+    "serverless-plugin-lambda-dead-letter": "^1.2.1"
+  }
+}
